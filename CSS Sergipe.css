@@ -2,8 +2,19 @@ h2#es{
 	color: #0000FF;
 	font-family: Arial;
 }
+p#hs{
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+	border: 10px;
+	border-style: solid;
+	border-color: #FFDEAD;
+	border-radius: 25px 25px;
+	background-color: #FFDEAD;
+}
 p{
-	font-family: Arial; 
+	text-align: left;
+	max-width: 160ch;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+	color: #363636;
 }
 h2{
 	font-family: Arial;
@@ -12,8 +23,25 @@ h3{
 	font-family: Arial;
 }
 li{
-	font-family: Arial;
+	font-family: 'Gill Sans', 'Gill Sans MT	', Calibri, 'Trebuchet MS', sans-serif; 
+	color: 	#363636;
+	
 }
 body{
-	background-color: white;
+	margin: 0ch 6ch;
+	background: url(1200px-Bandeira_de_Sergipe.svg.png);
+	background-size: 120px 80px;
+	background-repeat: no-repeat;
+	background-position: 1140px 530px;
+	background-attachment: fixed;
+}
+hr{
+	border-top: 4px solid #87CEEB;
+	background-color: aqua;
+}
+img{
+	vertical-align: 70%;
+	width: 	210px;
+	height: 130px;
+	position: relative;
 }
