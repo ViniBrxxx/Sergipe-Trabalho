@@ -1,5 +1,11 @@
 h2#es{
-	color: #0000FF;
+	border: 8px;
+	border-style: solid;
+	border-radius: 25px 25px;
+	border-color: blue;
+	background-color:blue;
+	text-align: center;
+	color: white;
 	font-family: Arial;
 }
 p#hs{
@@ -11,8 +17,9 @@ p#hs{
 	background-color: #FFDEAD;
 }
 p{
+	font-size: 17px;
 	text-align: left;
-	max-width: 160ch;
+	max-width: 120ch;
 	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
 	color: #363636;
 }
@@ -36,6 +43,7 @@ body{
 	background-attachment: fixed;
 }
 hr{
+	border-radius: 10ch 250ch;
 	border-top: 4px solid #87CEEB;
 	background-color: aqua;
 }
@@ -45,3 +53,96 @@ img{
 	height: 130px;
 	position: relative;
 }
+h2#sn{
+	text-align: right;
+	width: 88ch;
+	height: 0ch;
+	position: fixed;
+}
+img#li{
+	top: 50%;
+	left: 50%;
+	margin-top: -180px;
+	margin-left: 450px;
+	width: 25px;
+	height: 25px;
+	position: fixed	;
+	
+}b{
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: right;
+	width: 140ch;
+	top: 50%;
+	left: 50%;
+	margin-top: -176px;
+	margin-left: 480px;
+	width: 25px;
+	height: 25px;
+	position: fixed;
+}
+img#li2{
+	top: 50%;
+	left: 50%;
+	margin-top: -140px;
+	margin-left: 450px;
+	width: 25px;
+	height: 25px;
+	position: fixed	;
+}
+b#ig{
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: right;
+	width: 140ch;
+	top: 50%;
+	left: 50%;
+	margin-top: -135px;
+	margin-left: 480px;
+	width: 25px;
+	height: 25px;
+	position: fixed;
+
+}
+img#li3{
+	top: 50%;
+	left: 50%;
+	margin-top: -101px;
+	margin-left: 450px;
+	width: 25px;
+	height: 25px;
+	position: fixed	;
+}
+img#li4{
+	top: 50%;
+	left: 50%;
+	margin-top: -63px;
+	margin-left: 450px;
+	width: 25px;
+	height: 25px;
+	position: fixed	;
+}
+b#ig2{
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: right;
+	width: 140ch;
+	top: 50%;
+	left: 50%;
+	margin-top: -98px;
+	margin-left: 480px;
+	width: 25px;
+	height: 25px;
+	position: fixed;
+}
+b#ig3{
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: right;
+	width: 140ch;
+	top: 50%;
+	left: 50%;
+	margin-top: -60px;
+	margin-left: 480px;
+	width: 25px;
+	height: 25px;
+	position: fixed;
+}
+	
+
