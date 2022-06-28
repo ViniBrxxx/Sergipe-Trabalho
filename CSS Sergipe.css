@@ -35,22 +35,23 @@ li{
 	
 }
 body{
+
 	margin: 0ch 6ch;
-	background: url(1200px-Bandeira_de_Sergipe.svg.png);
-	background-size: 120px 80px;
+	background: url("1200px-Bandeira_de_Sergipe.svg copiar.png");
+	background-size: 140px 100px;
 	background-repeat: no-repeat;
 	background-position: 1140px 530px;
 	background-attachment: fixed;
 }
-hr{
+hr#ae{
 	border-radius: 10ch 250ch;
 	border-top: 4px solid #87CEEB;
 	background-color: aqua;
 }
 img{
 	vertical-align: 70%;
-	width: 	210px;
-	height: 130px;
+	width: 	500x;
+	height: 600px;
 	position: relative;
 }
 h2#sn{
@@ -109,7 +110,7 @@ img#li3{
 	margin-left: 450px;
 	width: 25px;
 	height: 25px;
-	position: fixed	;
+	position: fixed;
 }
 img#li4{
 	top: 50%;
@@ -144,5 +145,51 @@ b#ig3{
 	height: 25px;
 	position: fixed;
 }
-	
 
+ol{
+	
+	background-color: #808080;
+	border: 8px;
+	border-style: solid;	
+	border-radius: 25px 25px;
+	max-width: 20ch;
+	color: #808080;
+}
+ol#idc{
+	background-color: #808080;
+	border: 8px;
+	border-style: solid;	
+	border-radius: 25px 25px;
+	max-width: 20ch;
+	color: #808080;
+}
+
+li{
+	color: white;
+}
+a:hover{
+	font-size: 17px;
+	background-color: red;
+	font-weight: bold;
+	color: blue;
+}
+img#bsm{
+	text-align: center;
+	width: 125x;
+	height: 55px;
+}
+h2#cs{
+	color: white;
+	text-align: center;
+	border: 5px;
+	border-style: solid;
+	border-color: blue;
+	border-radius: 25px 25px;
+	background-color: blue;
+}
+img#hjt{
+	border-radius: 25px;
+}
+img#isj{
+	
+}
